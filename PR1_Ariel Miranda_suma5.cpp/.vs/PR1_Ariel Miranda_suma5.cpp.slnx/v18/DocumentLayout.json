@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudio cpp\\PR1_Ariel Miranda_suma5.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC87DB6-1278-425F-AB83-0E3D5F8EB0FD}|PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.vcxproj|D:\\Estudio cpp\\PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AC87DB6-1278-425F-AB83-0E3D5F8EB0FD}|PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.vcxproj|solutionrelative:PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR1_Ariel Miranda_suma5.cpp.cpp",
+              "DocumentMoniker": "D:\\Estudio cpp\\PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.cpp",
+              "RelativeDocumentMoniker": "PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.cpp",
+              "ToolTip": "D:\\Estudio cpp\\PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.cpp",
+              "RelativeToolTip": "PR1_Ariel Miranda_suma5.cpp\\PR1_Ariel Miranda_suma5.cpp.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T19:32:49.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
